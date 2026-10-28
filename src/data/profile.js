@@ -2,16 +2,16 @@
 // Static files (photo, CV) live in public/ and are referenced without a leading slash.
 const profile = {
   "name": "Avindu Dilshan",
-  "headline": "Full-Stack Developer",
+  "headline": "Full Stack Developer",
   "currentRole": "Application Support Consultant at Capital Maharaja Group",
-  "location": "Galle, Sri Lanka",
+  "location": "Colombo, Sri Lanka",
   "company": "Capital Maharaja Group",
-  "tagline": "I build software end to end — Spring Boot and PHP on the server, React in the browser — and I do it inside a support role, where I develop the Power Apps, automations and dashboards that keep business systems running.",
+  "tagline": "I build software end to end, Spring Boot and PHP on the server, React in the browser, and I do it inside a support role, where I develop the Power Apps, automations and dashboards that keep business systems running.",
   "about": [
     "I am a full-stack developer and a Software Technology undergraduate at the University of Vocational Technology. I work across the whole stack: Spring Boot and PHP on the back end, React and JavaScript on the front, with SQL Server and MySQL behind them.",
     "My job title is Application Support Consultant at Capital Maharaja Group, and a large part of that role is development. I build Power Apps applications, write the approval automations behind them in Power Automate, develop Power BI dashboards and reports, and test the integrations that connect these systems to SAP and the group's ERP.",
-    "The support side taught me something development alone does not: how software behaves once real people depend on it. On the Bizom SFA rollout I worked across five group companies as the link between sales staff, business users, the vendor and the SAP team — gathering requirements, testing integrations, loading master data and training the people who use the system daily.",
-    "Outside work I keep building. My projects range from a Spring Boot and React campus portal with JWT authentication to management systems in PHP and VB.NET. I like understanding a stack well enough to rebuild the same system in a different one — my library management project exists in both Java and PHP for exactly that reason."
+    "The support side taught me something development alone does not: how software behaves once real people depend on it. On the Bizom SFA rollout I worked across five group companies as the link between sales staff, business users, the vendor and the SAP team, gathering requirements, testing integrations, loading master data and training the people who use the system daily.",
+    "Outside work I keep building. My projects range from a Spring Boot and React campus portal with JWT authentication to management systems in PHP and VB.NET. I like understanding a stack well enough to rebuild the same system in a different one, and my library management project exists in both Java and PHP for exactly that reason."
   ],
   "email": "avindudilshan99999@gmail.com",
   "phone": "+94 77 929 1667",
@@ -87,7 +87,7 @@ const profile = {
     {
       "role": "Application Support Consultant",
       "org": "Capital Maharaja Group",
-      "period": "Jan 2024 — Present",
+      "period": "Jan 2024 to Present",
       "points": [
         "Develop business applications in Microsoft Power Apps, including a CAPEX approval system, and build the approval logic behind them with Power Automate.",
         "Design and develop Power BI dashboards and Report Builder reports that drive business analysis and management decisions.",
@@ -99,8 +99,8 @@ const profile = {
     },
     {
       "role": "Software Development Trainee",
-      "org": "Cooperative Development Department — Southern Province",
-      "period": "Oct 2022 — Apr 2023",
+      "org": "Cooperative Development Department, Southern Province",
+      "period": "Oct 2022 to Apr 2023",
       "points": [
         "Completed a six-month software development training programme.",
         "Took part in the design, development and testing of software applications.",
@@ -112,7 +112,7 @@ const profile = {
     {
       "qualification": "Bachelor of Software Technology",
       "org": "University of Vocational Technology",
-      "period": "2024 — Present",
+      "period": "2024 to Present",
       "points": [
         "Software development, programming, database management and IT fundamentals.",
         "Application development, system analysis and software engineering concepts."
@@ -121,7 +121,7 @@ const profile = {
     {
       "qualification": "Diploma in Information & Communication Technology",
       "org": "College of Technology, Galle",
-      "period": "2021 — 2023",
+      "period": "2021 to 2023",
       "points": [
         "Computer applications, networking basics and software tools."
       ]
@@ -129,7 +129,7 @@ const profile = {
   ],
   "projects": [
     {
-      "title": "Bizom — Sales Force Automation Rollout",
+      "title": "Bizom Sales Force Automation Rollout",
       "summary": "Implemented the Bizom SFA platform across five Capital Maharaja Group companies. Gathered and analysed requirements from each company, coordinated the vendor and SAP teams through implementation and testing, loaded product, customer and distributor master data, and trained staff on daily operations.",
       "tags": [
         "Bizom",
@@ -145,7 +145,7 @@ const profile = {
     },
     {
       "title": "CAPEX Document Approval System",
-      "summary": "A capital-expenditure approval application built in Microsoft Power Apps, with an automated approval flow in Power Automate and email notifications at each stage — replacing a manual, paper-based process.",
+      "summary": "A capital expenditure approval application built in Microsoft Power Apps, with an automated approval flow in Power Automate and email notifications at each stage, replacing a manual, paper-based process.",
       "tags": [
         "Power Apps",
         "Power Automate",
@@ -157,7 +157,7 @@ const profile = {
       "accent": "cyan"
     },
     {
-      "title": "Campus Portal — Student Management System",
+      "title": "Campus Portal Student Management System",
       "summary": "A student management platform with a Spring Boot 3 backend and a React 19 frontend, secured with JWT login and backed by an H2 database.",
       "tags": [
         "Java 21",
@@ -211,7 +211,7 @@ const profile = {
       "accent": "rose"
     },
     {
-      "title": "Express Ride — Taxi Service",
+      "title": "Express Ride Taxi Service",
       "summary": "A city taxi service built with PHP, vanilla JavaScript and jQuery for booking and dispatch.",
       "tags": [
         "PHP",
